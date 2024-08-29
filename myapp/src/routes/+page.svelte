@@ -7,7 +7,7 @@
 <div class="min-h-screen flex items-center justify-center bg-green-400">
     <div class="max-w-md w-full space-y-8">
         <div>
-            <img src="/logo.png" alt="Shipps" class="mx-auto h-12 w-auto" />
+            <img src="/logo.png" alt="Shipps" class="mx-auto h-20 w-auto" />
             <h2 class="mt-6 text-center text-4xl font-extrabold text-foreground">
                 Log in to Shipps
             </h2>
