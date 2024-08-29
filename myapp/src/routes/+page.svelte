@@ -12,7 +12,7 @@
                 Log in to Shipps
             </h2>
             <p class="mt-2 text-center text-sm text-muted-foreground">
-                Manage your shipments with ease and efficiency
+                Track your shipments with ease and efficiency
             </p>
         </div>
         <form class="mt-8 space-y-6" action="#" method="POST">
